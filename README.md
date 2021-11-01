@@ -5,21 +5,23 @@ When it found a plant with your selected parameters, will show up the plant's bu
 ![Test image](https://github.com/Tomanji/UndeadBot/blob/main/test_bot.png)
 
 ## Setup:
-1. Install Python 3 Windows installer (64-bit):
+1. Download the code in zip format pressing the Green button above. Unzip it where you want.
+
+2. Install Python 3 Windows installer (64-bit):
 https://www.python.org/downloads/
 
-2. Open Power Shell in the main directory 
+3. Open Power Shell in the code directory 
 (Shift + Right Click -> Open PowerShell)
 
-3. Execute this command:
+4. Execute this command:
 
 		pip install -r requeriments.dat
 
-4. Get you Bearer Token:
+5. Get you Bearer Token:
 
 ![Image of Yaktocat](https://github.com/Tomanji/UndeadBot/blob/main/bearer_token.png)
 
-5. Copy and save your Bearer Token in token.txt
+6. Copy and save your Bearer Token in token.txt
 
 
 ## How to use
