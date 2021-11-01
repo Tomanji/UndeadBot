@@ -1,5 +1,5 @@
 # UndeadBot v0.1
-## SETUP:
+## Setup:
 1. Install Python 3 Windows installer (64-bit):
 https://www.python.org/downloads/
 
@@ -17,7 +17,7 @@ https://www.python.org/downloads/
 5. Copy and save your Bearer Token in token.txt
 
 
-## HOW TO USE
+## How to use
 
  Open PowerShell in the main directory and write:
 	
@@ -27,7 +27,7 @@ https://www.python.org/downloads/
 the bot will open the browser in the plant buy page. 
 You will press "Buy now" to confirm the purchase.
 
-## HOW TO CONFIG 
+## How to config
 
 1. From the "imgcodes" folder, choose which plant do you want to monitorize.
 
