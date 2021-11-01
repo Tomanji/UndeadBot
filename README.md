@@ -1,4 +1,8 @@
 # UndeadBot v0.1
+This is a bot for the game of the plant. You choose which plants you want to monitor and how much you are willing to pay.
+
+![Test image](https://github.com/Tomanji/UndeadBot/blob/main/test_bot.png)
+
 ## Setup:
 1. Install Python 3 Windows installer (64-bit):
 https://www.python.org/downloads/
