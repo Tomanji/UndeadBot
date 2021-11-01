@@ -1,5 +1,6 @@
 # UndeadBot v0.1
 This is a bot for the game of the plant. You choose which plants you want to monitor and how much you are willing to pay.
+When it found a plant with your selected parameters, will show up the plant's buy page.
 
 ![Test image](https://github.com/Tomanji/UndeadBot/blob/main/test_bot.png)
 
