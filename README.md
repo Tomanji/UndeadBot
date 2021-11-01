@@ -5,7 +5,7 @@ When it found a plant with your selected parameters, will show up the plant's bu
 ![Test image](https://github.com/Tomanji/UndeadBot/blob/main/test_bot.png)
 
 ## Setup:
-1. Download the code in zip format pressing the Green button above. Unzip it where you want.
+1. Get the bot zip file.
 
 2. Install Python 3 Windows installer (64-bit):
 https://www.python.org/downloads/
